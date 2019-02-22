@@ -39,7 +39,6 @@ nav {
 }
 
 #sectionBox {
-    /* position: relative; */
     float: left;
     width: 55%;
     height: 225px;
@@ -61,8 +60,8 @@ nav {
 }
 
 #aside { 
-    float: none;
-    width: 45%;
+    float: right;
+    width: 33%;
     height: 225px;
 } 
 
